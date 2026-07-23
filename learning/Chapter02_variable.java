@@ -20,6 +20,9 @@ public class Chapter02_variable {
         System.out.println(g);
         System.out.println(h);
 
+        System.out.println(2 + 2);
+        System.out.println(2.0 + 2.0);
+
     }
     
 }
