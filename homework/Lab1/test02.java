@@ -1,6 +1,6 @@
 package Lab1;
 
-public class Test02 {
+public class Test02{
 
     public static void main(String[] args) {
             int width = 36;
