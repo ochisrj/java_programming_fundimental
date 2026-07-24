@@ -1,6 +1,6 @@
 package Lab1;
 /*****************************************
- * Student : 69160134 Kittipoom Samranjai
+ * Student : ******** Kittipoom Samranjai
  * Program : MyFirstProgram
  * Description : Display value
  ******************************************/
